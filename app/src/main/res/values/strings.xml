@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Travelcards</string>
+    <string name="flightVariants">Варианты перелета</string>
+    <string name="choose">Выбрать</string>
+    <string name="cancel">Отмена</string>
+    <string name="company">Авиакомпания:</string>
+    <string name="hotels">Отели:</string>
+</resources>
